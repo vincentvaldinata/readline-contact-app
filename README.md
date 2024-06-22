@@ -13,6 +13,7 @@ Node Contact App is a simple contact management application built using Node.js.
 - [Node.js](https://nodejs.org/) (version 14.x or higher)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-- ![Screenshot (1022)](https://github.com/vincentvaldinata/readline-contact-app/assets/76637079/2d509727-8b67-4316-bf20-8b03c0b4665b)
-- ![Screenshot (1023)](https://github.com/vincentvaldinata/readline-contact-app/assets/76637079/3c15e091-aeca-4277-a2b1-734636f92a59)
+## Result
+![Screenshot (1022)](https://github.com/vincentvaldinata/readline-contact-app/assets/76637079/2d509727-8b67-4316-bf20-8b03c0b4665b)
+![Screenshot (1023)](https://github.com/vincentvaldinata/readline-contact-app/assets/76637079/3c15e091-aeca-4277-a2b1-734636f92a59)
 
